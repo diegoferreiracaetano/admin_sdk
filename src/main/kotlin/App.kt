@@ -31,8 +31,7 @@ object App {
         println("Successfully sent message: $response")
     }
 
-    val URL = "https://my-burguer-8c2de.firebaseio.com"
-    val TOKEN = "d1ZBRu0J1qs:APA91bEn0dYgWVcbnXfFRVkGl7vrLx15IZya06Ok0ehGCPou0XKgUCRJmuecZXpU2FXkvo-xpDu3RypMq_pjURV-2ha0Cz9-Stn64kmAgoPmGGKqtdhP1SaIk6tAG6j4mSkwiLtxsLCG"
-
+    val URL = "URL_PROJECT"
+    val TOKEN = "DEVICE"
 
 }
